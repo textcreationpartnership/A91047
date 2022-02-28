@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Avernus. Being certaine propositions and promises made by Don Belzebub (alias Pluto) emperor of Gebynon, king of Sheol, Tophet and Avernus, prince of Phlegiton, Styx, and Acheron, duke of Aetna, Stumbille, and Mongebelle, &amp;c. To his sable courtiers, inviting (and exciting them) by ample rewards to the propagation (and increase of his diabolicall empire. Taken notice of by Mark Parinter.</title>
+            <author>Parinter, Mark.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91047</idno>
+            <idno type="STC">Wing P357</idno>
+            <idno type="STC">Thomason E148_9</idno>
+            <idno type="STC">ESTC R3887</idno>
+            <idno type="EEBO-CITATION">99872522</idno>
+            <idno type="PROQUEST">99872522</idno>
+            <idno type="VID">156691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156691)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Avernus. Being certaine propositions and promises made by Don Belzebub (alias Pluto) emperor of Gebynon, king of Sheol, Tophet and Avernus, prince of Phlegiton, Styx, and Acheron, duke of Aetna, Stumbille, and Mongebelle, &amp;c. To his sable courtiers, inviting (and exciting them) by ample rewards to the propagation (and increase of his diabolicall empire. Taken notice of by Mark Parinter.</title>
+                  <author>Parinter, Mark.</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis. = ill.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devil --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:156691:1"/>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <head>A Lanthorn and Candle light, to ſee this darke <hi>(and black)</hi> Emblem by.</head>
+               <l>See Reader by this figure what thou art,</l>
+               <l>And let thy inward thoughts dictate to thee,</l>
+               <l>Whether this helliſh Chair be not thy heart,</l>
+               <l>Where <hi>Pluto</hi> ſits (and rules) if ſo it bee,</l>
+               <l>(For Heavens love) take this advice of mee,</l>
+               <l>Arme thee with grace; throw Satan out o'th Chayre,</l>
+               <l>Put <hi>Chriſt</hi> in's place, who quells the Prince o'th Ayre.</l>
+            </lg>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:156691:1" rendition="simple:additions"/>
+            <p>NEWES FROM AVERNVS.</p>
+            <p>
+               <hi>BEING</hi> Certaine Propoſitions and Promiſes made BY Don <hi>Belzebub</hi> (alias <hi>Pluto</hi>) Emperor of <hi>Ge<g ref="char:EOLhyphen"/>hynon,</hi> King of <hi>Sheol, Tophet</hi> and <hi>Avernus,</hi> Prince of <hi>Phlegiton, Styx,</hi> and <hi>Acheron,</hi> Duke of <hi>Aetna, Stumbille,</hi> and <hi>Mongebelle,</hi> &amp;c.</p>
+            <p>To his ſable Courtiers, inviting (and exciting them) by ample rewards to the propagation of and increaſe of his Diabolicall Empire.</p>
+            <p>Taken notice of by <hi>Mark Parinter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> 16<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156691:2"/>
+            <pb facs="tcp:156691:2"/>
+            <head>An Exordium (or premonitory) Epiſtle to the Prudent Chriſtian.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Confeſſe thou maiſt wonder at my formidable Fronteſpeece, or terrible title, which may (perhaps) ſqueeſe from thee ſome conjecture contrary to verity, or my expectation, as that the worke containes more ſpight or vanity, then wit or Chriſtianity, but take this for thy learning (beforehand) that if thy judgement wreſt from thee ſuch an uncharitable Cen<g ref="char:EOLhyphen"/>ſure, thou thy ſelfe art guilty of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> judgeſt, for by this Diabolicall doaleſt, I endeavor to reach thee (according to my ability) thy chriſtian duty to God and thy Neighbour, vices be<g ref="char:EOLhyphen"/>ing expoſed, make the vitious actors of them aſhamed (if they be not paſt stame) and the honeſt and vertuous livers more confi<g ref="char:EOLhyphen"/>dently annimated to proſecute their pious <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: the anticut enenmie of man-kind (by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appellation) is ſaid (ſometimes) to aſſume the place of an Angel of light, thereby (with counter<g ref="char:EOLhyphen"/>feit Coyne) to deceive the minds of ſelfe-will'd Chriſtians (in name) that with the more fallity hee may enter into the hearts of them whoſe conſoperated opinions renders him their greatest Antagoniſt (I meane in their owne conceptions) Though they be inwardly his moſt endeared friends and whom he may moſt ea<g ref="char:EOLhyphen"/>ſily poſſeſſe with a vaine ſhadow of juſtice, as by imagining them<g ref="char:EOLhyphen"/>ſelves to be the ſervants of the God of heaven, when (indeed the more is the pittie) they are (by ſuuh ſiniſter practices, which they follow) even ſlaves to (him) the 'Devill of hell: whoſe ſubtill ſtratagems, and damnable devices (to game the ſoules of ſelf-conceited, and preſumptious worldlings) thou art, good Pru<g ref="char:EOLhyphen"/>dent, and Chriſtian READER, preadmoniſhed by thy ſoules health wiſhing friend,</p>
+            <closer>
+               <signed>Mark Parinter.</signed>
+            </closer>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:156691:3"/>
+            <head>The Argument of the enſuing TREATISE.</head>
+            <lg>
+               <l>The infernall King ſetting in's Fiery Chaire,</l>
+               <l>VVith Luciferian pride deth ſummon all</l>
+               <l>His fiends, from fire, water, earth, and Ayre,</l>
+               <l>VVhich being come, he them to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doth call,</l>
+               <l>How each hath ſpent his time, ſoules to inthrawle,</l>
+               <l>Tells them in what proſeſsions hee's beſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>And by what means his Kingdome is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156691:3"/>
+            <head>Newes from Avernus.</head>
+            <p>COme hither all you my beloved, Black, Blew, Red, Greene, Gray, Ruſſet, and Orange-tawny Boyes, Fernds of all ſorts, ſizes, and ages, from 1635 yeeres ſtanding, to little two-yeere-old Devils, you my conſtant Colleg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars of this Infernall Vniver<g ref="char:EOLhyphen"/>ſitie, you my truſty Agents, who negotiate for me in the Terreſtreall Globe, to the inriching of my King<g ref="char:EOLhyphen"/>dome, the increaſing of my ſubjects, and the augmen<g ref="char:EOLhyphen"/>tation of my glory (briefly) you, I ſay, who as my nimble ſervants ſometimes by viſible, but moſt com<g ref="char:EOLhyphen"/>monly by inviſible means, do attend thoſe who are ap<g ref="char:EOLhyphen"/>pointed for a portion of my inheritance in the world, leaſt at any time (through want of quotidiall (nay rather morall ſolicitations and attendance) they ſhould be ſnatched out of my potent pawes: 'Tis true (my truſty Rogers) I have no great cauſe (I confeſſe) to queſtion your ſedulity nor vigilancie (I meane in ge<g ref="char:EOLhyphen"/>nerall) yet let me tell you (my good friends) there are ſome of you in particular, whoſe ſloth is now of late dayes highly reprehenſible, how elſe hath it come to paſſe, that the Sun-day is ſo devoutly obſerved, drunkenneſſe in the time of Divine Service ſo Cir<g ref="char:EOLhyphen"/>cumſpectly avoided; how comes ſo much faſting and praying, ſuppreſſion of Monopoliſts and Pattentees;
+<pb facs="tcp:156691:4"/>and divers other abuſes reformed (eſpecially in the Kingdome of <hi>England,</hi> whence (I ſay) proceeds all this, but through your tardineſſe and negligence: but let that paſſe, I will not exaſperate my patience over-much, nor extenuate your diligence beyond de<g ref="char:EOLhyphen"/>ſert, but having a little reprehended what is amiſſe in you, I now purpoſe to render (to your worthy praiſe and my great glory and comfort) an account of (and thanks for) the good ſervices that of late yeeres you have done to the propagation and elevation of vice the extenuation and (almoſt) extirpation of vertue in the Kingdome of <hi>England</hi> (aforeſaid) wiſhing, exhor<g ref="char:EOLhyphen"/>ting, charging, and commanding you and every one of you (as you tender my love) or feare my diſpleaſure, or wiſh the enlargement and expanſion of this my di<g ref="char:EOLhyphen"/>diabollicall Monarchy) to proſecute (to your utmoſt endevours, and with the moſt exact care and dilligence that you poſſibly may) the courſes that you have ſo auſpitiouſly begun: for the furtherance whereof (and that you may with more alacrity and facility execute my deſignes) I will demonſtrate unto you in what profeſſions I am moſt effectually &amp; punctually plea<g ref="char:EOLhyphen"/>ſed, and by what men and meanes my Empire is ex<g ref="char:EOLhyphen"/>panded; Then prick up your eares, and liſten (with at<g ref="char:EOLhyphen"/>tention) to the works of the Devill: for you muſt take eſpeciall care in a matter of ſuch high conſequence, that all things conduceable to this deſigned worke, be done with a plauſible deportment, that as poyſon may (and is oftentimes) ſweetned with hony (or ſuger) to make it be diliciouſly ſwallowed, ſo temtations of this nature (which filleth this vaſt Infernal Kingdom) muſt
+<pb facs="tcp:156691:4"/>be ſweetned with promiſes (nay commonly with per<g ref="char:EOLhyphen"/>formances) of worldly wealth, honour, fame, dignitie, and reputation, as for example, the drunkard muſt be ſtil'd a Good fellow, a Boon companion, a ſound Trout, a notable blade, nay, as honeſt a man as ever piſt with, &amp;c. or as trode upon a ſhoe of leather (a large Encomium) for it ſeems the Saints never troad upon any. The libidenous Letcher muſt not want his titles, for hee, though he have no Gentry hereditary, nor dares adventure to get any in the field of <hi>Mars,</hi> yet (with a pox to him) betwixt <hi>Venus</hi> and <hi>Cornelius</hi> (not <hi>Cornelius Agrippa</hi>) he ſhall get enough to make him a Gentleman at three skirmiſhes, and Mr. <hi>Preſent-time</hi> (the Herald) ſhall iuſtifie it. The covetous catiffe that moſt damnable Idolater, who adores Croſſes and Ima<g ref="char:EOLhyphen"/>ges) muſt be counted a very good Husband (though his wife ſay noe ſuch matter) a thriving man that by his pinching parſimony, and trucelent oppreſſion of the poore, he ſhall get (beſides the little of a rich man) the Devill and all. But it were a Labour endles to tell you in particular what your ſelves know (ſo well as I) in generall there be damnable ſinners of all profeſſions ſort, ſizes, ſects and ages, unleſſe it be little children, whereof (to my great griefe) too many dye, before they be capable of deadly ſines ſo yet I am deprive'd of millions that way. Therefore it behoves you my boon aſſociats my Impaſſible poſtillians, my Machevilian meſſengers, and <hi>Avernian</hi> Embaſſadors, to be the more ſedulous &amp; diligent among thoſe of ripe age, let them not paſſe (at the moſt) eight years of age before they being inſtructed to ſweare, curſe, lie, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the
+<pb facs="tcp:156691:5"/>name of God, ſing baudy ſongs pilpher ſmall triffels as farthings or pence, from there parents, to buy pares; aples, or plumbs, theſe are good beginnings (my lads) &amp; being ends according to my owne deſire; when they come to exceed twelve, thentis high time to teach them to frequent Play-houſes, Taverns, Ale-houſes, and (though their abilities yet pemit them not) let them for the more ſpeedy enableing themſelves, frequent baudy-houſes, and be ſure doe not forget to teach them (in their child-hood) to play at dice and cards, though at firſt but for fardings, yet from this ſmall beginning when they come to maturity of age, they will exceed from fatthings to penc, from penc, to ſhillings; from ſhillings, to Crownes, from crownes to pounds, and ſo upwards according to our Diobollicall arithmeticke, untill they come to poverty, from thence, to robbing (or ſtealing) and conſequently, &amp;c. For the Female fex, lot them not arive to 15. at the moſt, before they be endoctrinated in all the poſtures of pride and novel<g ref="char:EOLhyphen"/>tie in faſhion, teach them to curle (and lay out) their haire, expoſe their naked breſts, &amp;c. that by theſe externall deportments, their internall in<g ref="char:EOLhyphen"/>tentions may bee knowne; but above all things be not negligent in following your buuſineſſe cloſe in every ſeaſon, untill the harveſt (of reward) be come, you have ſowne ſeeds of diſſention, ſects and ſchiſmes are plentifully ſpread, and will, undoubtedly) yeeld an infinite crop; O how happy hath it been for my traffick, ſince the firſt Authors of theſe damnable Hereſies were, ſeverally, ſuggeſted by me and you; every one of them to invent, and teach, an opinion ac<g ref="char:EOLhyphen"/>cording
+<pb facs="tcp:156691:5"/>his, nay to her, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> well ſhuffel'd, my boyes, play on boldly, in the Devils name, if we winne not Millions of ſoules at this game, let's burne the cards, ha, ha, ha, ha, ha, I ſhall take up an unlimmitted laughter, if I don't recall my ſelfe in time; For indeed, how can I otherwiſe chuſe; alas you know, my deereſt, that heretofore wee have laid many yeeres to one ſoule, and yet at the laſt have loſt both it, our time and labour, and come home quite van<g ref="char:EOLhyphen"/>quiſh't without it, but, now, ha, ha, ha, they come in tumbling, and crowding, without any paines taking ha, ha, ha, I can now ſit ſnorting in my Chaire, and have my work done ready to my hand, according to my owne deſire, or heart could wiſh; the twiggs being well limed at th' firſt, hath ſaved labour ever ſince, for they poore ſouls are ſo blinded and lull'd aſleep with that ſomniferous potion of ſelfe-conceited ſanctitie, and puritie, that they thinke themſelues true to my enemie, and enemie to me; but in this they pleaſe me exceedingly, let them run on in their erronious con<g ref="char:EOLhyphen"/>ceipts, and thinke ſo ſtill, they ſhall never be hindred, but rather furthered, by me, but my feare is, if your care be not us'd to the extremity of diligence, that they will ſmell it out of themſelves; looke too't, I charge you, for they know that a Kingdome divided within it ſelf, cannot ſtand, nor a houſe divided eſcape inevitable ruine; therefore to prevent this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for they have commonly good <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, propoſe unto them hot Capons, Shoulders of Mutton, Pullers in white bloath, collops and egges, eat even (and moſt eſpecially on that day which moſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mee)
+<pb facs="tcp:156691:6"/>Godd-friday, poſſeſſe them ſeverally with ſtrong de<g ref="char:EOLhyphen"/>luſions of ſelf-conceited ſanctitie, that every man may ſay (or at the leaſt thinke ſo) to his Neighbour, Stand further off, come not neere me, for I am holyer then thou, <hi>noli me tangere,</hi> thou profane and wicked man, let them be perſeverent in this, and then ſleeping and waking, all's mine, quoth the Devill, ſo ſure as God's in heaven, their pride (as mine did at firſt) will caſt them headlong into hell, &amp; now it comes into my mind) I coniure you all to be mindful of my very good friends, &amp; ſervants, compoſers and publiſhers of theſe lying and ſcandalous Pamphlets, which daily are car<g ref="char:EOLhyphen"/>ried and ſpread about, ſometimes to the diſgrace of them that hate me to the death; &amp; tell thoſe my truſty factors, that I will at no time be forgetful of their care and diligence to the increaſe of ſo many notable vice, which advance my ſtate, as lying, ſtandering, envie, de<g ref="char:EOLhyphen"/>traction &amp; blaſphemy, all damnable fins, and ſeriouſly prohibited by Almighty God, my immortall enemie, I know, and you know, that by theſe only means, many Millions of ſouls come daily to my kingdome; there<g ref="char:EOLhyphen"/>fore it behoves you to be exceeding forward in a mat<g ref="char:EOLhyphen"/>ter of ſuch deep importance, and to be extreame ſolici<g ref="char:EOLhyphen"/>tous to preoccupate (ſo far as poſſibly you may) the ſuppreſſion and prohibition of this numerous rabble of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and Pamphliters, by the ſub<g ref="char:EOLhyphen"/>lime <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it of the Parliament, for if that ſhould come to paſſe, through want of vigilaney, my Empire would looſe a great part of it's propagation, and I of any glory. But I hope you will at no time be taken tar<g ref="char:EOLhyphen"/>dy in theſe affaires, which is no hard task to effect, ſee<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:156691:6"/>that the proſeſſion, though baſe, propounds into them both profit and pleaſure, without much paine taking, enough ſaid of that, now we proceed to other particulars, which may fortifie your memories, when you have occaſion to uſe them in the world in ſeverall wayes, as I ſhall endoctrinate you, firſt I tell you, my ſubtill ſubſtitute, that I finde great utility and comfort by the quotidian reſort of Whores, Baudes, pick<g ref="char:EOLhyphen"/>pockets, Cheaters, &amp;c. to ſtage-playes, ſeek to ſet that for<g ref="char:EOLhyphen"/>ward: ſecondly I have great gaine from theſe place, called Bawdy-houſes, therefore be ſerious and urgent in your promi<g ref="char:EOLhyphen"/>ſing ample rewards to the dooers &amp; ſufferers of the premiſe, let the panders be petulent, the Baudes impudent, the whores arrogart, and the Officers ſuperindulgent, &amp;c. Thirdly bee preſſive to further (through hope of gaine) that hipocriticall ſecret fraud in ſhopkeepers, hidden under Yea, and Nay, veri<g ref="char:EOLhyphen"/>ly, and truely, &amp;c. with their dark ſhops, falſe weights, mea<g ref="char:EOLhyphen"/>ſures and Wares, to the inritching of themſelves for a time, and me to eternitie: and fourthly, doe not forget to encou<g ref="char:EOLhyphen"/>rage thoſe damnable Dammablades in the damming, ſinck<g ref="char:EOLhyphen"/>ing, periſhing, and renouncing, tell them that all ſhall be punctually perform'd on Gods part and mine: for hee will certainly by theſe provocations, and invitations, damne, ſinck, periſh, and renounce their ſoules, then what followes, but that 'tis my part to take them (according to their cuſtomary wiſh, The Devill take me) and ſo nodoubtedly, I will. For while they ſeek to diſſect (or annatomize) God with their im<g ref="char:EOLhyphen"/>precations and oathes; as heart, wound and blood, be you rea<g ref="char:EOLhyphen"/>dy, and diligent, upon his <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of them, as iuſtly, to ſeale them for me. And, now I call it to minde, let <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> re<g ref="char:EOLhyphen"/>member you of one eſpecial innovation in trading, introduc'd through the gradation of time, in <hi>England,</hi> chiefly in, and ad<g ref="char:EOLhyphen"/>iacent to, the Cities of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> to the ample
+<pb facs="tcp:156691:7"/>encreaſe of beſtial ebriety, which is the<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or well-ſpring of almoſt all other moſt damnable ſins and impieties, there<g ref="char:EOLhyphen"/>fore be ſure to aſſiſt with your eſpeciall care, and diligence, the proadintors, or <hi>primo parens</hi> of this horrible ſinne of drun<g ref="char:EOLhyphen"/>kenneſſe; and thoſe be the Brewers of this exorbitant and Cir<g ref="char:EOLhyphen"/>cean liquor called 14. Shillings Ale: theſe are the true fo<g ref="char:EOLhyphen"/>ſter-fathers of this execrable vice, and deſerve eſpeciall no<g ref="char:EOLhyphen"/>tiſe, praiſe, thanks (and reward) for their ſervice, moſt of them profeſſe themſelves very preciſe, I profeſſe, indeed, and in truth, and unleſſe it be in private among the brethren or ſi<g ref="char:EOLhyphen"/>ſters, thoſe that abhorre the moſt abominable ſin of drun<g ref="char:EOLhyphen"/>kenneſſe, but as the proverbe ſayes, If there were no receivers there would be no theeves; and conſequently, if no thieves no receivers; ſo that theſe b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding Ale-brewers are the princi<g ref="char:EOLhyphen"/>pall (and originall) cauſe of ſo many law leſſe blinde Ale-houſes (as wee call them) that under the pretence of keeping Tobacco-ſhops (whom I can never praiſe enough) preſume (and that without any iuſt licenſe from the Iuſtice) to dra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and fell with (be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liſh) black pots, this diabolicall drink after the rate of 2 <abbr>d.</abbr> 2 pint, neither muſt I forget to extol the ſervice of thoſe (wilfully) blind Beadles, whoſe eyes being ſhadow<g ref="char:EOLhyphen"/>ed with two Sillings by the quarter, will winke at at (theſe great, under the name of) ſmall faults; ſo let them do ſtill, and want no annimition thereunto, for by this means they doe in an open rebellious way, againſt the laws of God and King, in ſtead of faſting &amp; praying (which pleaſeth God too much for my profit) uſe all poſſible wayes and means for the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Drunkeneſſe and many other moſt abhominable vices which bring ſome to beggory, others to ſtealing, and ſo make work for the Beadle, and the Hang-man, Gramercy fourteen <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling Ale-brewer for (the moſt part of all) this; beſides their <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> day (I <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their ſer<g ref="char:EOLhyphen"/>vants)
+<pb facs="tcp:156691:7"/>about this unneceſſary (and unconſcionable) and to augment their gaines (and their ſinnes) it is ſo Bumbaſted <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt in the tunning, that being ſetled, and fit to drinke (which to ſay truth, it never is) the Victulers have (oftentimes) but 27. Gallons for a barrell, it is ſo iumbled and ſophiſticated, that beyond the height of wholſome nouriſhment, inflaming and intoxicating the braines of poore labouring people, ſpen<g ref="char:EOLhyphen"/>ding their time and means, at this Acherontick Ale, while their wives, children and families want bread at home, where<g ref="char:EOLhyphen"/>by the number of poore doth increaſe, which is, both to them, and to me, advantagious, for the poorer ſort are their chiefe and moſt conſtant cuſtomers in this damnable courſe of tra<g ref="char:EOLhyphen"/>ding, for the drinking of their fulſome and ſpungious Ale; and thus having full proofe of their truſty ſervice to me, and the amplitude and increaſe of ſo many other (by their means) I would have you to promiſe them (and I will performe it) ſome eſpeciall place in Hell (a great preferrment) above o<g ref="char:EOLhyphen"/>ther petty offenders; encourage them cloſely to <hi>Bu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ie</hi> to their buſineſſe, ſo as the <hi>Center</hi> of the work may yeeld forth <hi>Share</hi> of their damnable endeavours: and exhort them to bee confident, that with a Daſh to be are the Bell (over) the way it may paſſe for Fourteen ſhillings the Barrell, at <hi>Chequer</hi> pay; but I know no reaſon why there ſhould not be <hi>Crowne</hi> Ale, as well as <hi>Crowne</hi> ſope: no, no, I am miſtaken, let them ſtill continue their brewing Strong, High and mighty Ale, that may ſparkle ſo proudiy, as <hi>G<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of Warwicke; nay, let it be ſo ſtrong and heady, that ſakef-Farmers, Fiſh wives Coblers, Chimney-ſweepers, Rag-gatherers and T<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers; may be merry, and ſing bawdy and drunken catcher and eſpe<g ref="char:EOLhyphen"/>cially, forget not lying Tales, and the continuall <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this tatterd regiments let the buy then of all their Songs be ſung to this Tune (by all theſe Ale-bibbers) Strong Ale is
+<pb facs="tcp:156691:8"/>meat drinke and cloth, ſo likewiſe let them ſtand to it, that to hold ſuch Pot-companions in union, it may be compard to <hi>Buckle</hi> and thong; even in deſpight of our potent adverſary, who commends, and onely brewes Ten ſhillings Ale, and will <hi>Byde</hi> by't and be ſure to take theſe inſtructions along with you, for the encouraging all thoſe my conſtant ſervants, that for the better, and more credible proſecution of their moſt damnable courſes, let them practiſe by meanes ſo to inſinuate with men in place of Authoritie, that both of them (the Brewer and the victuler) may beare ſome Office for mainte<g ref="char:EOLhyphen"/>nance of civill government in the Pariſh (where the dwell) that ſo they may be the better enabled, for their owne pri<g ref="char:EOLhyphen"/>vate gaines, to connive at ſinne and wickedneſſe; and ſo an<g ref="char:EOLhyphen"/>ticipate the legall proceedings againſt their helliſh converſa<g ref="char:EOLhyphen"/>tions herein: and not to doubt, but that though their educa<g ref="char:EOLhyphen"/>tions afford them neither writing nor reading, yet, if they can doe by my inſtructions aforeſaid, they may be called to be under (if not capital) Conſtables to execute the Offices of religious honeſtmen, that ſo by their Authoritie in thoſe places, they may mightily encreaſe my Empire; I could di<g ref="char:EOLhyphen"/>ctate many other advices: but I know that few words may ſuffice to inſtruct the wiſe, therefore Ile ſay no more to you at this time, leaſt I ſhould be tedious; But goe on in the De<g ref="char:EOLhyphen"/>vills name, and bid them (as the Familiſt ſaith) Increaſe and multiply, <hi>Vale.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="admonition">
+            <head>The Proſcript.</head>
+            <p>COurteous Reader, Having ſhowne by this figure the Diabolicall in<g ref="char:EOLhyphen"/>tentions, and invaterate malice of the Common Enemy to Mankind, (the Devill) Let us <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aide of Almighty God, that by the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his grace, mee may eſcape all his fiery darts, and prevaile againſt the gates of Hell; love vertue, hate vice, ſerve God, in deſpite oth' Devill.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
